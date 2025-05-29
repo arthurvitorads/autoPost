@@ -4,8 +4,6 @@
 
 # Documentação para Tester — Sistema de Postagens com Laravel + Vuetify
 
----
-
 A [Digital One](https://www.digitalone.com.br/) está sempre em busca de profissionais com boa capacidade de aprendizado e adaptação, mas principalmente motivação.
 
 Este teste tem como objetivo avaliar seus conhecimentos. Fique tranquilo, caso não consiga concluir o desafio no prazo estipulado, você deve envia-lo da maneira que estiver, pois iremos avaliar a qualidade do que foi desenvolvido. 
@@ -27,8 +25,6 @@ Construir uma aplicação com as seguintes funcionalidades:
 - Frontend: Vue.js + Vuetify
 - Banco: phpMyAdmin/MySQL
 
----
-
 ## 2. Requisitos Funcionais
 
 ### Autenticação
@@ -44,8 +40,6 @@ Construir uma aplicação com as seguintes funcionalidades:
 - Todos os usuários  podem ver todas as postagens
 - Usuário pode editar ou excluir apenas as suas postagens
 - Postagens devem exibir título, conteúdo, autor e data de criação
-
----
 
 ## 3. Testes Automatizados
 
@@ -65,8 +59,6 @@ O tester deve executar os testes automatizados já implementados, além de valid
   Registro → Login → Criar postagem → Editar → Excluir → Logout
 - Testar restrições para edição e exclusão de postagens de outros usuários
 - Testar fluxo de recuperação de senha
-
----
 
 ## Regras
 
