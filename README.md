@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 style="display: flex; justify-content: center;">
   <img alt="Digital One" src="https://www.digitalone.com.br/images/agencia-de-marketing-digital-one.png" />
 </h3>
 
